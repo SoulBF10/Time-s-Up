@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WhiteOG_dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="No Talkie0000" x="0" y="0" width="415" height="750"/>
+	<SubTexture name="No Talkie0001" x="0" y="0" width="415" height="750"/>
+	<SubTexture name="Talkie0000" x="430" y="0" width="414" height="745" frameX="0" frameY="-5" frameWidth="417" frameHeight="750"/>
+	<SubTexture name="Talkie0001" x="430" y="0" width="414" height="745" frameX="0" frameY="-5" frameWidth="417" frameHeight="750"/>
+	<SubTexture name="Talkie0002" x="859" y="0" width="415" height="750" frameX="-2" frameY="0" frameWidth="417" frameHeight="750"/>
+	<SubTexture name="Talkie0003" x="859" y="0" width="415" height="750" frameX="-2" frameY="0" frameWidth="417" frameHeight="750"/>
+	<SubTexture name="Talkie0004" x="1289" y="0" width="415" height="750" frameX="-1" frameY="0" frameWidth="417" frameHeight="750"/>
+	<SubTexture name="Talkie0005" x="1289" y="0" width="415" height="750" frameX="-1" frameY="0" frameWidth="417" frameHeight="750"/>
+</TextureAtlas>

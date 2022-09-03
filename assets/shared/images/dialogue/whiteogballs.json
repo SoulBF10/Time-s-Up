@@ -1,0 +1,63 @@
+{
+	"position": [
+		90,
+		-40
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "WhiteOG_Balls_dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-4,
+				-21
+			],
+			"loop_offsets": [
+				-4,
+				-20
+			],
+			"anim": "talk",
+			"idle_name": "No Talkie",
+			"loop_name": "Talkie"
+		},
+		{
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				5,
+				0
+			],
+			"idle_name": "BF EXCITED0",
+			"loop_name": "BF EXCITED LOOP"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF PISSED0",
+			"loop_name": "BF PISSED LOOP"
+		},
+		{
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"idle_name": "BF SHOCK0",
+			"loop_name": "BF SHOCK LOOP"
+		}
+	]
+}

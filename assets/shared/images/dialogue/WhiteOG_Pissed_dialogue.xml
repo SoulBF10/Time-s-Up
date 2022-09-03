@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WhiteOG_Pissed_dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="No Talkie Pissed0000" x="0" y="0" width="406" height="724"/>
+	<SubTexture name="No Talkie Pissed0001" x="0" y="0" width="406" height="724"/>
+	<SubTexture name="Talkie Pissed0000" x="416" y="0" width="406" height="728"/>
+	<SubTexture name="Talkie Pissed0001" x="416" y="0" width="406" height="728"/>
+	<SubTexture name="Talkie Pissed0002" x="832" y="0" width="406" height="726" frameX="0" frameY="-2" frameWidth="406" frameHeight="728"/>
+	<SubTexture name="Talkie Pissed0003" x="832" y="0" width="406" height="726" frameX="0" frameY="-2" frameWidth="406" frameHeight="728"/>
+	<SubTexture name="Talkie Pissed0004" x="1248" y="0" width="406" height="724" frameX="0" frameY="-4" frameWidth="406" frameHeight="728"/>
+	<SubTexture name="Talkie Pissed0005" x="1248" y="0" width="406" height="724" frameX="0" frameY="-4" frameWidth="406" frameHeight="728"/>
+</TextureAtlas>

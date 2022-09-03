@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WhiteOG_Balls_dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="No Talkie Balls0000" x="0" y="0" width="598" height="760" frameX="0" frameY="-1" frameWidth="599" frameHeight="762"/>
+	<SubTexture name="No Talkie Balls0001" x="608" y="0" width="599" height="761" frameX="0" frameY="0" frameWidth="599" frameHeight="762"/>
+	<SubTexture name="No Talkie Balls0002" x="1217" y="0" width="598" height="760" frameX="0" frameY="-1" frameWidth="599" frameHeight="762"/>
+	<SubTexture name="No Talkie Balls0003" x="0" y="771" width="599" height="759" frameX="0" frameY="-3" frameWidth="599" frameHeight="762"/>
+	<SubTexture name="Talkie Balls0000" x="0" y="0" width="598" height="760" frameX="0" frameY="-1" frameWidth="599" frameHeight="762"/>
+	<SubTexture name="Talkie Balls0001" x="608" y="0" width="599" height="761" frameX="0" frameY="0" frameWidth="599" frameHeight="762"/>
+	<SubTexture name="Talkie Balls0002" x="1217" y="0" width="598" height="760" frameX="0" frameY="-1" frameWidth="599" frameHeight="762"/>
+	<SubTexture name="Talkie Balls0003" x="0" y="771" width="599" height="759" frameX="0" frameY="-3" frameWidth="599" frameHeight="762"/>
+</TextureAtlas>
